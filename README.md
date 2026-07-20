@@ -1,4 +1,4 @@
-# Foundry Agent YAML Exporter
+# Foundry Agent YAML Exporter Sample
 
 A small Python utility that exports an **Azure AI Foundry Agent Service** agent's
 definition to YAML, in the same shape as the definition you see in the Foundry
