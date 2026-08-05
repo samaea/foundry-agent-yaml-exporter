@@ -1,0 +1,12 @@
+# Local secrets / config
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Generated output
+*.yaml
+!*.example.yaml
